@@ -1,0 +1,10 @@
+Django>=3.2
+djangorestframework
+gunicorn
+numpy
+tensorflow
+keras
+Pillow
+lime
+scikit-image
+matplotlib
